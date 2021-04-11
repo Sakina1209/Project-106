@@ -22,11 +22,13 @@ span
 }
 .emotion_name
 {
-  font-size: 40px;
+  font-size: 35px;
+  margin-right: 75px;
 }
 .emoji
 {
-  font-size:48px;
+  font-size:40px;
+  margin-right: 75px;
 }
 #result_emotion_name
 {
@@ -38,15 +40,21 @@ span
   border-radius: 30px;
   padding: 7px;
   font-size: 18px;
+  margin-right: 75px;
 }
 #camera , #result
 {
   border: 2px dashed black;
-  width: 350px;
+  width: 300px;
   height: 300px; 
 }
 .outcome{
-  margin-left: 350px;
-  margin-bottom: 0px;
-  margin-top: -65px;
+  margin-left: 400px;
+  margin-bottom: 50px;
+  margin-top: -115px;
+  
+}
+.graphics{
+  margin-top: -40px;
+  margin-right: 50px;
 }
