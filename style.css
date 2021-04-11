@@ -1,0 +1,52 @@
+body
+{
+  color: white;
+  background-image: url(bg7.jpg);
+}
+span
+{
+  font-size: 30px;
+}
+.heading{
+  background-color:steelblue;
+  font-size: 20px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+#text{
+  color: black;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#emoji{
+  font-size: 25px;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+#result_emotion_name
+{
+  color: black;
+}
+#label{
+  color: navy;
+  background-color: white;
+  border-radius: 30px;
+  padding: 7px;
+  font-size: 18px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.outcome{
+  margin-left: 350px;
+  margin-bottom: 0px;
+  margin-top: -65px;
+}
